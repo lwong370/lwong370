@@ -4,8 +4,9 @@ I'm a Computer Engineering student at University of California, Davis. I am inte
 
 ## Hobbies
 🎨 Art and Design <br/>
-🍱 Trying New Restaurants </br>
+🍱 Exploring New Places & Restaurants </br>
 🐈 Playing with my cats
 
 ## Connect with Me
-- [Linkedin](https://www.linkedin.com/in/lana-wong-2639281a3/) <br/>
+- [Website](https://lwong370.github.io/)<br/>
+- [Linkedin](https://www.linkedin.com/in/lana-wong-2639281a3/) 
