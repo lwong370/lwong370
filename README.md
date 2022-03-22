@@ -1,6 +1,6 @@
 👋 Hi, I’m Lana!
 
-I'm a Computer Engineering student at University of California, Davis. I am interested in application develpoment, web development, and UI/UX design.
+I'm a Computer Engineering student at University of California, Davis. I am interested in application and web development, robotics, AI/ML, and UI/UX design.
 
 ## Hobbies
 🎨 Oil Painting <br/>
